@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/integration-tests
 
+## 1.1.5
+
+### Patch Changes
+
+- 222bfed3: Updates to get integration tests running locally and on CI
+
 ## 1.1.4
 
 ### Patch Changes

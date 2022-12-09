@@ -1,5 +1,23 @@
 # @cloud-carbon-footprint/cli
 
+## 1.9.0
+
+### Minor Changes
+
+- 40a8f3d1: updates cli and app for seed cache file with csp and updates create app templates
+  Refer to create app changes [here](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/commit/618bf389d373743212f5b6615d00ba4665c8f491)
+- a1ad994d: Updates Azure SDK and usageRow pagination to latest version (v9)
+
+  For updates to create-app (CLI) templates, please review this [commit.](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/commit/6e943bc74851b093d372b14ccb38981053e36bf5)
+
+### Patch Changes
+
+- Updated dependencies [40a8f3d1]
+- Updated dependencies [692d6aaf]
+- Updated dependencies [09e72585]
+- Updated dependencies [222bfed3]
+  - @cloud-carbon-footprint/app@1.1.0
+
 ## 1.8.0
 
 ### Minor Changes
